@@ -1,6 +1,5 @@
 ---
-slug: /
-title: Introduction
+title: Backend API
 sidebar_position: 1
 ---
 

@@ -2,8 +2,6 @@
 npx create-docusaurus@latest sitename classic
 
 
-
-
 deploy settings
 const config = {
   title: 'My Site',
@@ -29,6 +27,10 @@ const config = {
     locales: ['en'],
   },
 
+
+
+versioning:
+npm run docusaurus docs:version 1.0.0
 
 
 deploy

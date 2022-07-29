@@ -5,6 +5,8 @@ authors: [akalanka]
 tags: [kolloqe, custom entities, entity annotation, NLP]
 ---
 
+![Kolloqe101](eannon.png)
+
 Summary
 
 <!--truncate-->

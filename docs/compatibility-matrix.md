@@ -1,7 +1,6 @@
 ---
-slug: /
-title: Introduction
-sidebar_position: 1
+title: Compatibility Matrix
+sidebar_position: 6
 ---
 
 Let's discover **Docusaurus in less than 5 minutes**.
