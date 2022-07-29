@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkkolloqe_github_io=self.webpackChunkkolloqe_github_io||[]).push([[7212],{3710:a=>{a.exports=JSON.parse('{"label":"conversational AI","permalink":"/blog/tags/conversational-ai","allTagsPath":"/blog/tags","count":1}')}}]);

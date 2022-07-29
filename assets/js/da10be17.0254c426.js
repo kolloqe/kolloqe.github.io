@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkkolloqe_github_io=self.webpackChunkkolloqe_github_io||[]).push([[14],{8183:e=>{e.exports=JSON.parse('{"label":"dime","permalink":"/blog/tags/dime","allTagsPath":"/blog/tags","count":1}')}}]);

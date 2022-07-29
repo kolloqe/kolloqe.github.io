@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkkolloqe_github_io=self.webpackChunkkolloqe_github_io||[]).push([[4245],{7506:e=>{e.exports=JSON.parse('{"label":"token-mapping","permalink":"/blog/tags/token-mapping","allTagsPath":"/blog/tags","count":1}')}}]);

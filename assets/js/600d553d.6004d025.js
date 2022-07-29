@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkkolloqe_github_io=self.webpackChunkkolloqe_github_io||[]).push([[9750],{5671:l=>{l.exports=JSON.parse('{"label":"train","permalink":"/blog/tags/train","allTagsPath":"/blog/tags","count":1}')}}]);

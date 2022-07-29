@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkkolloqe_github_io=self.webpackChunkkolloqe_github_io||[]).push([[3589],{9415:o=>{o.exports=JSON.parse('{"label":"socket.io","permalink":"/blog/tags/socket-io","allTagsPath":"/blog/tags","count":1}')}}]);

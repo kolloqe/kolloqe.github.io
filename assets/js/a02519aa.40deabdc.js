@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkkolloqe_github_io=self.webpackChunkkolloqe_github_io||[]).push([[1661],{2021:e=>{e.exports=JSON.parse('{"label":"custom entities","permalink":"/blog/tags/custom-entities","allTagsPath":"/blog/tags","count":1}')}}]);
