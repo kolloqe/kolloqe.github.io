@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkkolloqe_github_io=self.webpackChunkkolloqe_github_io||[]).push([[5985],{4811:e=>{e.exports=JSON.parse('{"label":"chat-widget","permalink":"/blog/tags/chat-widget","allTagsPath":"/blog/tags","count":1}')}}]);
