@@ -1,6 +1,5 @@
 ---
-slug: /
-title: Introduction
+title: What is developer console
 sidebar_position: 1
 ---
 
