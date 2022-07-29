@@ -1,17 +1,23 @@
-endi:
-  name: Endilie Yacop Sucipto
-  title: Maintainer of Docusaurus
-  url: https://github.com/endiliey
-  image_url: https://github.com/endiliey.png
+dinushi:
+  name: Dinushi Jayasinghe
+  title: Data Scientist @ Kolloqe
+  url: https://github.com/dinushiTJ
+  image_url: https://github.com/dinushiTJ.png
 
-yangshun:
-  name: Yangshun Tay
-  title: Front End Engineer @ Facebook
-  url: https://github.com/yangshun
-  image_url: https://github.com/yangshun.png
+akalanka:
+  name: Akalanka Sakalasooriya
+  title: NLP Engineer @ Kolloqe
+  url: https://github.com/akalankasakalasooriya
+  image_url: https://github.com/akalankasakalasooriya.png
 
-slorber:
-  name: Sébastien Lorber
-  title: Docusaurus maintainer
-  url: https://sebastienlorber.com
-  image_url: https://github.com/slorber.png
+shamikh:
+  name: Shamikh Hameed
+  title: Full Stack Engineer Engineer @ Kolloqe
+  url: https://github.com/shamikhhameed
+  image_url: https://github.com/shamikhhameed.png
+
+ishara:
+  name: Ishara Dissanayake
+  title: ML Engineer @ Kolloqe
+  url: https://github.com/thisisishara
+  image_url: https://github.com/thisisishara.png

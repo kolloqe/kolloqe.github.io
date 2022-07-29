@@ -1,15 +1,15 @@
 ---
-slug: long-blog-post
-title: Long Blog Post
-authors: endi
-tags: [hello, docusaurus]
+slug: kolloqe-xai
+title: How bots figure things out?
+authors: ishara
+tags: [xai, dime, explanations]
 ---
 
-This is the summary of a very long blog post,
-
-Use a `<!--` `truncate` `-->` comment to limit blog post size in the list view.
+Today, we'll take a look at how conversational AIs tend to understand queries presented to them and do the intent classification.
 
 <!--truncate-->
+
+[to be published...]
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet
 
